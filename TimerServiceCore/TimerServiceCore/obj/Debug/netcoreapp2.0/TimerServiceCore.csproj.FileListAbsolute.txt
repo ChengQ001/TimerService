@@ -1,0 +1,11 @@
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\bin\Debug\netcoreapp2.0\TimerServiceCore.deps.json
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\bin\Debug\netcoreapp2.0\TimerServiceCore.runtimeconfig.json
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\bin\Debug\netcoreapp2.0\TimerServiceCore.runtimeconfig.dev.json
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\bin\Debug\netcoreapp2.0\TimerServiceCore.dll
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\bin\Debug\netcoreapp2.0\TimerServiceCore.pdb
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\obj\Debug\netcoreapp2.0\TimerServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\obj\Debug\netcoreapp2.0\TimerServiceCore.AssemblyInfoInputs.cache
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\obj\Debug\netcoreapp2.0\TimerServiceCore.AssemblyInfo.cs
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\obj\Debug\netcoreapp2.0\TimerServiceCore.dll
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\obj\Debug\netcoreapp2.0\TimerServiceCore.pdb
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\TimerServiceCore\TimerServiceCore\obj\Debug\netcoreapp2.0\TimerServiceCore.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Quartz定时器.exe
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Quartz定时器.pdb
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Common.Logging.Core.dll
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Common.Logging.dll
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Quartz.dll
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Common.Logging.pdb
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Common.Logging.xml
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Common.Logging.Core.xml
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Quartz.pdb
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\bin\Debug\Quartz.xml
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\obj\Debug\Quartz定时器.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\obj\Debug\Quartz定时器.exe
+C:\Users\Administrator.SKY-20180301EDX\Desktop\Code\Quartz定时器\Quartz定时器\obj\Debug\Quartz定时器.pdb
